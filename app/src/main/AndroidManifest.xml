@@ -35,5 +35,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".TimelineActivity" />
+        <activity android:name=".ComposeActivity"/>
     </application>
 </manifest>

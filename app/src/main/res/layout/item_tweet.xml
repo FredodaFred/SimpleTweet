@@ -20,6 +20,16 @@
         tools:text="Mr. mc pepee" />
 
     <TextView
+        android:id="@+id/profile_tag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/profile_name"
+        android:textColor="#959393"
+        tools:text="\@waruo"
+        android:layout_marginLeft="7dp"
+         />
+
+    <TextView
         android:id="@+id/screen_tweet"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
